@@ -1,0 +1,9 @@
+Nama : Syahrul Ramadhan
+NIM  : 19.01.013.038
+Kelas : Sains Data - C
+
+1.	Download aplikasi Rapid Miner pada laman resmi 
+2.	Lakukan Registrasi terlebih dahulu akun Rapid miner pada menu pojok kanan atas. jika sudah memiliki akun maka lakukan login dan skip ke step ke-4
+3.	Masukan Data yang diminta dan selesaikan registrasi mengikuti arahan dari web.
+4.	jika sudah berhasil login, masuk pada menu download dan pilih sesuai sistem operasi yang anda gunakan.
+5.	Lakukan Instalasi Seperti biasanya.

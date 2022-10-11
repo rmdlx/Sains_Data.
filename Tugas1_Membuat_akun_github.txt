@@ -1,0 +1,9 @@
+Nama 	: Syahrul Ramadhan
+NIM	:  19.01.013.038
+
+1.	Langkah pertama dalam pembuatan akun Github adalah masuk pada laman resmi Github yaitu github.com
+2.	Untuk melakukan pendaftaran akun, pengguna masuk pada menu “sign up” yang berada pada pojok kanan atas laman. Setelah masuk pada laman registrasi pengguna diharuskan memasukan data seperti email, nama pengguna yang akan digunakan, dan password.
+3.	Jika pengguna selesai melakukan pengisian data untuk registrasi akun, github akan meminta verifikasi beberapa angka yang dikirim ke email yang telah didaftarkan sebelumnya.
+4.	Periksa email anda, salin kode yang terdapat pada email dan masukan ke laman github tadi(langkah nomor 3).
+5.	Akun siap digunakan. Saat berhasil login, kita dibimbing oleh github untuk membuat sebuah repository baru yang akan kita gunakan.
+6.	Contohnya disini saya membuat file test.txt sebagai percobaan
